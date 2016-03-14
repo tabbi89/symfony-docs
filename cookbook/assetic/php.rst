@@ -8,7 +8,7 @@ Combining, Compiling and Minimizing Web Assets with PHP Libraries
 
 The official Symfony Best Practices recommend to use Assetic to
 :doc:`manage web assets </best_practices/web-assets>`, unless you are
-comfortable with JavaScript-based front-end tools.
+comfortable with JavaScript-baased front-end tools.
 
 Even if those JavaScript-based solutions are the most suitable ones from a
 technical point of view, using pure PHP alternative libraries can be useful in
@@ -42,7 +42,7 @@ Organizing your Web Asset Files
 -------------------------------
 
 This example will include a setup using the Bootstrap CSS framework, jQuery, FontAwesome
-and some regular CSS and and JavaScript application files (called ``main.css`` and
+and some regular CSS and JavaScript application files (called ``main.css`` and
 ``main.js``). The recommended directory structure for this set-up looks like this:
 
 .. code-block:: text
